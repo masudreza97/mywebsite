@@ -286,6 +286,10 @@ body {
 		width: 100%;
 	}
 
+	#mymap {
+		overflow: hidden;
+	}
+
 }
 
 .panel-footer {
